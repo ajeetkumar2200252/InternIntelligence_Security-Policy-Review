@@ -1,0 +1,1 @@
+This document summarizes the security policy review and enhancement process for VulnHub Company, a leader in cybersecurity training environments. The aim is to strengthen security measures to protect user data, mitigate cyber threats, and ensure compliance with international standards.
